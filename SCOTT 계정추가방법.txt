@@ -1,0 +1,2 @@
+SQL> @C:\oraclexe\app\oracle\product\11.2.0\server\rdbms\admin\scott.sql
+SQL> alter user scott identified by 1234;
